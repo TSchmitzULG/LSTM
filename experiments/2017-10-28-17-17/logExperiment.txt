@@ -1,0 +1,12 @@
+mean square error : 0.06071170765941258 after 1556 epoch and a duration of 02:00:00:54  
+Parameters :
+tensorflow version 1.3.0
+Model Name LSTM9
+num_epoch 1556
+num_hidden 100
+num_step 100
+Number of layers 1
+batch_size 600
+input length 502740
+dropout 0.000000
+Total num of trainable parameters 40901
